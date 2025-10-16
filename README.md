@@ -1,105 +1,75 @@
-<!-- Profile Header -->
-<h1 align="center" style="font-family:'Chivo Mono', monospace; color:#FF1E1E;">
-  Hi 👋, I'm Ganesh Panigrahi
-</h1>
-<h3 align="center" style="font-family:'Chivo Mono', monospace; color:#FFFFFF;">
-  🚀 Full-Stack Developer | AI & Trading Enthusiast | Building Futuristic Platforms
-</h3>
+<!-- Main Heading -->
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/ganesh-panigrahi-123456">Ganesh Panigrahi</a> </h1>
 
-<!-- Typing Animation -->
+<!-- Social Links -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF1E1E&font=Chivo+Mono&center=true&vCenter=true&lines=Passionate+Developer;AI+Lover;Web3+Explorer;Stock+Market+Builder" />
+  <a href="https://ganesh-portfolio-web.vercel.app/">Portfolio</a> -
+  <a href="https://www.linkedin.com/in/ganesh-panigrahi-123456">LinkedIn</a> - 
+  <a href="https://x.com/ganesh_panigrahi">Twitter</a> - 
+  <a href="https://instagram.com/ganesh_panigrahi">Instagram</a>
 </p>
 
----
+<hr>
 
-<!-- Animated 3D Globe Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ganesh5050/assets/main/futuristic_globe.gif" width="600" alt="3D Globe Animation"/>
-</p>
+<!-- About Me -->
+💛 In love with <strong>JavaScript & AI</strong> <br />
+🎨 Passionate about <strong>Full-Stack Development & Trading Platforms</strong> <br />
+🌱 Building <strong>TradePro Platform</strong> – Real-time stock trading simulator <br />
+💬 Ask me about <strong>React, Node.js, Next.js, Tailwind, APIs</strong> <br />
+⚡ Fun fact: <strong>I love building interactive UIs</strong> <br />
+👁️ Always exploring <strong>open-source contributions & AI tools</strong>
 
----
+<!-- Tech Stack -->
+<details>
+  <summary><b>🛠 Tech Stack</b></summary><br>
+  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; font-size: 16px;">
+    <div style="margin-bottom: 10px;">
+      <b>Languages:</b><br>
+      JavaScript, TypeScript, Python, C, C++, Java
+    </div>
+    <div style="margin-bottom: 10px;">
+      <b>Frameworks & Libraries:</b><br>
+      React, Next.js, Redux, Tailwind, Bootstrap, ChakraUI, Express.js
+    </div>
+    <div style="margin-bottom: 10px;">
+      <b>Tools & Platforms:</b><br>
+      Node.js, Firebase, Vercel, Netlify, AWS, GitHub
+    </div>
+    <div style="margin-bottom: 10px;">
+      <b>Databases:</b><br>
+      MongoDB, MySQL, SQLite
+    </div>
+  </div>
+</details>
 
-### 💼 About Me
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ganesh5050/assets/main/glass_card_about.gif" width="700" alt="Glassmorphic About Card"/>
-</p>
-<p style="font-family:'Chivo Mono', monospace; color:#FFFFFF;">
-- 🔭 Currently building <strong>TradePro Platform</strong> – real-time stock simulation  
-- 🌱 Exploring <strong>AI, Web3, and Quant Finance</strong>  
-- ⚡ Fun fact: I love turning complex systems into elegant, interactive designs  
-</p>
+<br>
 
----
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
+<div align="center">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ganesh5050&theme=radical">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ganesh5050&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ganesh5050&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ganesh5050&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ganesh5050&theme=radical&utcOffset=5">
 
-### 🧠 Skills & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,typescript,python,mongodb,express,git,github,vite" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ganesh5050/assets/main/skills_neon_animation.gif" width="700" alt="Skills Neon Animation"/>
-</p>
+  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=Ganesh5050&theme=radical" />
+  <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ganesh5050&theme=radical" />
+</div>
 
----
+<br>
 
-### 📂 Featured Projects
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ganesh5050/assets/main/project_cards_hover.gif" width="700" alt="Project Cards Animation"/>
-</p>
-<p style="font-family:'Chivo Mono', monospace; color:#FFFFFF;">
-- <strong>TradePro</strong> – Real-time stock trading platform  
-- <strong>Maya-Web</strong> – Interactive Web3 Dashboard  
-- <strong>Regalytics</strong> – AI-powered analytics tool  
-- <strong>OFFICEflow</strong> – Productivity automation system  
-</p>
+<!-- GitHub Trophies -->
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ganesh5050&theme=radical" alt="GitHub Trophies" />
+</div>
 
----
+<br>
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ganesh5050&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganesh5050&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh5050&layout=compact&theme=radical" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ganesh5050/assets/main/contribution_snake_neon.gif" width="700" alt="Contribution Snake Neon"/>
-</p>
-
----
-
-### 🏆 Achievements & Highlights
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ganesh5050/assets/main/achievements_neon.gif" width="700" alt="Achievements Neon Cards"/>
-</p>
-<p style="font-family:'Chivo Mono', monospace; color:#FFFFFF;">
-- 🥇 Full-stack projects: TradePro, Maya-Web, Regalytics, OFFICEflow  
-- 💡 Integrated real-time APIs, AI models, and trading simulations  
-- 🚀 Contributor in React + Node.js open-source ecosystem  
-</p>
-
----
-
-### 📫 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square&labelColor=000000" /></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&style=flat-square&labelColor=000000" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&style=flat-square&labelColor=000000" /></a>
-</p>
-
----
-
-### ⚡ Quote of the Day
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=FF1E1E&font=Chivo+Mono&center=true&vCenter=true&lines='Code+is+like+humor;+when+you+have+to+explain+it,+it's+bad.'" />
-</p>
-
----
-
-### 🌀 Visitor Count
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ganesh5050&style=flat-square&color=FF1E1E" alt="Profile Views" />
-</p>
+<!-- Visitor Count -->
+<div align="start">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Ganesh5050&icon=1&color=0" alt="Visitor Count" />
+  </a>
+</div>
