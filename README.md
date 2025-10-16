@@ -46,7 +46,7 @@
 ---
 
 ### 🏆 Achievements & Highlights
-- 🥇 Built full-stack projects: **TradePro, Lunexa, RankdIn**
+- 🥇 Built full-stack projects: **TradePro, Maya-Web, Regalytics, OFFICEflow**
 - 💡 Integrated real-time APIs, AI models, and trading simulations
 - 🚀 Contributor in open-source projects on **React + Node.js ecosystem**
 
