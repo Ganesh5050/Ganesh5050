@@ -32,8 +32,8 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishek-coderX&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-coderX&theme=radical" />
+  <img src="https://github.com/Ganesh5050" />
+  <img src="https://ganesh-portfolio-web.vercel.app/" />
 </p>
 
 ---
