@@ -1,129 +1,87 @@
-<div align="center">
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Ganesh Panigrahi</h1>
+<h3 align="center">🚀 Full-Stack Developer | AI & Trading Enthusiast | Building Innovative Platforms</h3>
 
-  <!-- Animated Grid Background Header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:2dd4bf&height=200&section=header&text=Software%20Engineer&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" />
-  <!-- Typing Animation -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" /></a>
-  <br/><br/>
-  <!-- Social Badges -->
-  [!LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
-  [!Twitter](https://twitter.com/YOUR_HANDLE)
-  [!Portfolio](https://your-portfolio.com)
-  [!Email](mailto:your.email@example.com)
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=FF1E1E&center=true&vCenter=true&lines=Passionate+Developer;Stock+Market+Builder;AI+Lover;Always+Learning+New+Tech" />
+</p>
 
-  <br/>
+---
 
-  !Profile Views
-</div>
-<br/>
-💫 About Me
-const ganesh = {
-    location: "Your City, Country 🌍",
-    education: "Your Degree",
-    university: "Your University",
-    interests: ["Web Development", "Machine Learning", "Cloud Architecture"],
-    currentlyLearning: ["Advanced React", "System Design", "DevOps"],
-    openToCollaborate: ["Open Source Projects", "Full-stack Applications"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😅"
-};
-<br/>
-🛠️ Tech Stack
-Languages
-!Python
-!JavaScript
-!TypeScript
-!C++
-!Java
-Frontend
-!React
-!Next.js
-!TailwindCSS
-!Vue.js
-Backend
-!Node.js
-!Express.js
-!FastAPI
-!Django
-AI/ML
-!TensorFlow
-!PyTorch
-!scikit-learn
-!Pandas
-Database
-!PostgreSQL
-!MongoDB
-!Redis
-DevOps & Cloud
-!Docker
-!Kubernetes
-!AWS
-!Git
-<br/>
-📊 GitHub Statistics
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ganesh5050&show_icons=true&theme=radical&hide_border=true&bg_color=1a1f2e&title_color=38bdf8&icon_color=38bdf8&text_color=e5e7eb" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ganesh5050&theme=radical&hide_border=true&background=1a1f2e&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" />
-</div>
-<br/>
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh5050&layout=compact&theme=radical&hide_border=true&bg_color=1a1f2e&title_color=38bdf8&text_color=e5e7eb" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ganesh5050&theme=react-dark&hide_border=true&bg_color=1a1f2e&color=38bdf8&line=38bdf8&point=e5e7eb" />
-</div>
-<br/>
-🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ganesh5050&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4" />
-</div>
-<br/>
-🎯 Current Focus
-$ cat current_focus.txt
-📚 Learning:
-  ├─ Advanced System Design Patterns
-  ├─ Cloud Architecture (AWS Solutions Architect)
-  ├─ Machine Learning Engineering
-  └─ Blockchain & Web3 Development
-💼 Working On:
-  ├─ Full-stack web applications with AI integration
-  ├─ Open source contributions
-  ├─ Personal portfolio projects
-  └─ Technical blog writing
-🎯 Goals for 2025:
-  ├─ Contribute to 50+ open source projects
-  ├─ Build and deploy 10 production-grade apps
-  ├─ Master cloud architecture
-  └─ Share knowledge through tech blogs
-<br/>
-🐍 Contribution Graph
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ganesh5050/Ganesh5050/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-<br/>
-💡 Random Dev Quote
-<div align="center">
+<!-- Animated Banner / Globe -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ganesh5050/assets/main/animated_globe.gif" alt="animated globe" width="600" />
+</p>
 
-!
-</div>
-<br/>
-📈 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-<br/>
-🎨 Latest Projects
-<div align="center">
-[!ReadMe Card](https://github.com/Ganesh5050/project1)
-[!ReadMe Card](https://github.com/Ganesh5050/project2)
-</div>
-<br/>
-🤝 Let's Connect!
-<div align="center">
+---
 
-I'm always open to interesting conversations and collaboration opportunities!
-[!LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
-[!Twitter](https://twitter.com/YOUR_HANDLE)
-[!Email](mailto:your.email@example.com)
-</div>
-<br/>
-***<div align="center">
-💙 Show some love by starring some repositories!
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:2dd4bf&height=120&section=footer" width="100%" />
-</div>
+### 💼 About Me
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ganesh5050/assets/main/futuristic_card.gif" alt="About Me Card" width="700" />
+</p>
+
+- 🔭 I’m currently building **TradePro Platform** – a real-time stock trading simulation.
+- 🌱 Exploring **AI, Web3, and Quant Finance**
+- ⚡ Fun fact: I love turning complex systems into elegant code.
+
+---
+
+### 🧠 Skills & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,typescript,python,mongodb,express,git,github,vite" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ganesh5050/assets/main/skills_hover.gif" alt="Skills animation" width="700" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ganesh5050&show_icons=true&theme=radical&count_private=true&hide_border=false&include_all_commits=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganesh5050&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh5050&layout=compact&theme=radical&hide_border=false" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ganesh5050/assets/main/contribution_snake.gif" width="700" alt="Contribution Snake Animation" />
+</p>
+
+---
+
+### 🏆 Achievements & Highlights
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ganesh5050/assets/main/achievement_cards.gif" width="700" alt="Achievements Cards" />
+</p>
+
+- 🥇 Built full-stack projects: **TradePro, Maya-Web, Regalytics, OFFICEflow**
+- 💡 Integrated real-time APIs, AI models, and trading simulations
+- 🚀 Contributor in open-source projects on **React + Node.js ecosystem**
+
+---
+
+### 📫 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square&labelColor=black" /></a>
+  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&style=flat-square&labelColor=black" /></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&style=flat-square&labelColor=black" /></a>
+</p>
+
+---
+
+### ⚡ Quote of the Day
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=FF1E1E&center=true&vCenter=true&lines='Code+is+like+humor;+when+you+have+to+explain+it,+it's+bad.'" />
+</p>
+
+---
+
+### 🌀 Visitor Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ganesh5050&style=flat-square&color=FF1E1E" alt="Profile Views" />
+</p>
