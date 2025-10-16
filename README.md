@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Gan Pan</h1>
+<h1 align="center">Hi 👋, I'm Ganesh Panigrahi</h1>
 <h3 align="center">🚀 Full-Stack Developer | AI & Trading Enthusiast | Building Innovative Platforms</h3>
 
 <!-- Typing Animation -->
